@@ -27,5 +27,5 @@ console.log(decode);
 "?" = Unknown Code
 "." = Dot
 "-" = Dash
-" " = Space
+" " = Seperator
 ```
