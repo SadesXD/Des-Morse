@@ -1,0 +1,18 @@
+{
+  "name": "des-morse",
+  "version": "1.0.0",
+  "description": "Npm package for help you to encode & decode morse code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "morse",
+    "morse-code",
+    "morse-converter",
+    "sandi-morse",
+    "des-morse"
+  ],
+  "author": "SadesXD",
+  "license": "ISC"
+}
